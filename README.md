@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&pause=9000000&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=묵묵히++나아가는++개발자++김정욱입니다.👋)](https://git.io/typing-svg)
-
 <p>안녕하십니까! JAVA 기반의 풀스택 개발자 김정욱입니다.</p>
 <p>발전에 대해 끊임없이 갈망하고 실천하여 오늘보다 내일이 더 기대되는 개발자가 되도록 하겠습니다.</p>
 
