@@ -1,1 +1,36 @@
-# kjw
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=4000&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=묵묵히++나아가는++개발자++김정욱입니다.👋)](https://git.io/typing-svg)
+
+
+# 😊 It's me
+💻 JAVA 기반 풀스택 개발자 <br>
+✉️ kjo6391@gmail.com <br>
+📞 010-4641-9798 <br>
+🔗 블로그 : <a href="https://great-innovation-deb.notion.site/Resume-182789b52a2441a5972d627d6e453e1e" target="_blank">노션</a> <br>
+💯 알고리즘 : <a href="https://great-innovation-deb.notion.site/c5da7cd3eee447499537ebcc96cd4166">백준</a>
+
+<hr>
+
+# 🛠️ 기술스택
+<div style="display:flex; flex-direction:row;">
+  <div>
+    <h4>Back-End</h4>
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Spring Framewor-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+    <img src="https://img.shields.io/badge/maven-71A36?style=for-the-badge&logo=apachemaven&logoColor=white">  
+    <img src="https://img.shields.io/badge/Gson-00FF00?style=for-the-badge&logo=google&logoColor=white">
+    <img src="https://img.shields.io/badge/json-13B5EA?style=for-the-badge&logo=json&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mybatis-2E51A2?style=for-the-badge&logo=&logoColor=white">
+  </div>
+  <div>
+    <h4>DB</h4>
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  </div>
+  <div>
+    <h4>Front-End</h4>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/ajax-23C8D2?style=for-the-badge&logo=&logoColor=white">
+  </div>
+</div>
