@@ -30,6 +30,7 @@
   <div>
     <h4>DB</h4>
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white">
   </div>
   <div>
     <h4>Front-End</h4>
@@ -39,6 +40,10 @@
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
     <img src="https://img.shields.io/badge/ajax-23C8D2?style=for-the-badge&logo=&logoColor=white">
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=&logoColor=white">
+  </div>
+  <div>
+    <h4>Sfot Skills</h4>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=&logoColor=white">
   </div>
 </div>
 
