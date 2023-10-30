@@ -10,6 +10,10 @@
 
 <hr>
 
+# 💯 백준 Level
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 # 🛠️ 기술스택
 <div style="display:flex; flex-direction:row;">
   <div>
