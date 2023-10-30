@@ -12,7 +12,7 @@
 
 # 💯 백준 Level
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lucky6391)]([https://solved.ac/profile/lucky6391](https://solved.ac/profile/lucky6391)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lucky6391)](https://solved.ac/profile/lucky6391)
 
 <hr>
 
