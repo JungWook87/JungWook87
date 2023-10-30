@@ -12,7 +12,9 @@
 
 # 💯 백준 Level
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={lucky6391})](https://solved.ac/{lucky6391})
+
+<hr>
 
 # 🛠️ 기술스택
 <div style="display:flex; flex-direction:row;">
