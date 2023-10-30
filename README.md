@@ -43,7 +43,8 @@
   </div>
   <div>
     <h4>Sfot Skills</h4>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/github-232F3E?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/SVN-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </div>
 </div>
 
