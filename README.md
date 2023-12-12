@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
   </div>
   <div>
-    <h4>Sfot Skills</h4>
+    <h4>Soft Skills</h4>
     <img src="https://img.shields.io/badge/github-232F3E?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/SVN-F7DF1E?style=for-the-badge&logo=&logoColor=black">
   </div>
