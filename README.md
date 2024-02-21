@@ -2,11 +2,11 @@
 <p>발전에 대해 끊임없이 갈망하고 실천하여 오늘보다 내일이 더 기대되는 개발자가 되도록 하겠습니다.</p>
 
 # 😊 It's me
-💻 JAVA 기반 풀스택 개발자 <br>
+💻 JAVA 개발자 <br>
 ✉️ kjo6391@gmail.com <br>
 📞 010-4641-9798 <br>
-🔗 블로그 : <a href="https://great-innovation-deb.notion.site/Resume-182789b52a2441a5972d627d6e453e1e" target="_blank">노션</a> <br>
-💯 알고리즘 : <a href="https://great-innovation-deb.notion.site/c5da7cd3eee447499537ebcc96cd4166">백준</a>
+🔗 블로그 : <a href="https://jungwook87.github.io/" target="_blank">깃블로그</a> <br>
+💯 알고리즘 : <a href="https://jungwook87.github.io/categories/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/" target="_blank">백준</a>
 
 <hr>
 
