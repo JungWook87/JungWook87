@@ -7,6 +7,7 @@
 📞 010-4641-9798 <br>
 🔗 블로그 : <a href="https://jungwook87.github.io/" target="_blank">깃블로그</a> <br>
 💯 알고리즘 : <a href="https://jungwook87.github.io/categories/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/" target="_blank">백준</a>
+🔗 노션 : <a href="https://great-innovation-deb.notion.site/182789b52a2441a5972d627d6e453e1e" target="_blank">노션</a>
 
 <hr>
 
