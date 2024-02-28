@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/Gson-00FF00?style=for-the-badge&logo=google&logoColor=white">
     <img src="https://img.shields.io/badge/json-13B5EA?style=for-the-badge&logo=json&logoColor=white"> 
     <img src="https://img.shields.io/badge/mybatis-2E51A2?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=&logoColor=white">
   </div>
   <div>
     <h4>DB</h4>
