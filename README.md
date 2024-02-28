@@ -21,8 +21,10 @@
   <div>
     <h4>Back-End</h4>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring Framewor-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-    <img src="https://img.shields.io/badge/maven-71A36?style=for-the-badge&logo=apachemaven&logoColor=white">  
+    <img src="https://img.shields.io/badge/Spring Framewor-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/maven-71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=apachemaven&logoColor=white">
     <img src="https://img.shields.io/badge/Gson-00FF00?style=for-the-badge&logo=google&logoColor=white">
     <img src="https://img.shields.io/badge/json-13B5EA?style=for-the-badge&logo=json&logoColor=white"> 
     <img src="https://img.shields.io/badge/mybatis-2E51A2?style=for-the-badge&logo=&logoColor=white">
