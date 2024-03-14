@@ -53,8 +53,10 @@
 </div>
 
 <hr>
+# ⭐ 개인 MSA 프로젝트
+🔗 소스코드 : <a href="https://github.com/JungWook87/Omen">인트라넷(파이널 프로젝트)</a> <br>
 
 # ⭐ 국비학원 프로젝트
 🔗 소스코드 : <a href="https://github.com/JungWook87/Omen">인트라넷(파이널 프로젝트)</a> <br>
-🔗 포트폴리오 : <a href="https://drive.google.com/file/d/18CBHADTQA3fgkkoxyJ0v5T6vHTrtr4KG/view">ppt</a>
+🔗 포트폴리오 : <a href="https://drive.google.com/file/d/18CBHADTQA3fgkkoxyJ0v5T6vHTrtr4KG/view" target="_blank">ppt</a>
 
